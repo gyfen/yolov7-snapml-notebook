@@ -1,0 +1,7 @@
+env
+yolov7-snapml
+0.3.6
+1.9.0
+runs
+food-*
+traced_model.pt
